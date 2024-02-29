@@ -24,10 +24,6 @@
                "value":4
             },
             {
-               "name":"file_primitive_obsession_percentage_for_warning",
-               "value":0.3
-            },
-            {
                "name":"function_bumpy_road_bumps_for_warning",
                "value":2
             },
@@ -50,14 +46,6 @@
             {
                "name":"function_cyclomatic_complexity_warning",
                "value":9
-            },
-            {
-               "name":"function_embedded_content_lines_of_code_alert",
-               "value":"-"
-            },
-            {
-               "name":"function_embedded_content_lines_of_code_warning",
-               "value":"-"
             },
             {
                "name":"function_lines_of_code_alert",
